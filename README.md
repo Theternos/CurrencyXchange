@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-<h1>Currencee</h1>
-<p>💲 The world's most trusted, fast and secure currency converter app</p> 
+<h1>CurrencyXchange</h1>
 </div>
 
 <div align="center">
