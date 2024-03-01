@@ -10,8 +10,6 @@
 <img src="./assets/images/sample.png" width="600px">
 </div> <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f7c5c576-f1b4-40f9-ba1b-6a39ec0ffa1d/deploy-status)](https://app.netlify.com/sites/currencee/deploys)
-
 ## Get Started
 
 Currencee is a simple app built using HTML and JavaScript. Styling is done using SASS.
