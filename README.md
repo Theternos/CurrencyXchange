@@ -30,11 +30,11 @@ Countries are stored in a JavaScript object. These are the available countries. 
 
 ```js
 let country_code = {
+  INR: "in",
   USD: "us",
   GBP: "gb",
   EUR: "eu",
   NGN: "ng",
-  INR: "in",
   JPY: "jp",
   CNY: "cn",
   GHS: "gh",
@@ -55,12 +55,8 @@ https://flagcdn.com/h20/ng.png
 
 ## 🔐 License
 
-This project is protected by <a href="https://github.com/Evavic44/curencee/blob/main/LICENSE">MIT License</a>.
+This project is protected by <a href="https://github.com/Theternos/currencyXchange/blob/main/LICENSE">MIT License</a>.
 If you like this project, kindly star ⭐ and share this project.
-
-<a href="https://www.buymeacoffee.com/evavic44">
-  <img width="150px" alt="bmc-button" src="https://user-images.githubusercontent.com/62628408/127788747-8850d386-fc61-4fff-b18f-8c5ee597be34.png">
-</a>
 
 # Color Code
 
