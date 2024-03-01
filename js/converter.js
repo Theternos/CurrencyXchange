@@ -57,8 +57,8 @@ function getExchangeRate() {
   let amountVal = amount.value;
 
   if (amountVal == "" || amountVal == "0") {
-    amount.value = "300";
-    amountVal = 300;
+    amount.value = "100";
+    amountVal = 100;
   }
 
   // Loading Icon
