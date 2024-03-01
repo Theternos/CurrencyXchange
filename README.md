@@ -13,13 +13,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f7c5c576-f1b4-40f9-ba1b-6a39ec0ffa1d/deploy-status)](https://app.netlify.com/sites/currencee/deploys)
 
-## Run project locally
-
-Styling is done using sass. Make sure you run the command below to enable sass watch for changes and compile them to the `.css` file
-
-```bash
-sass --watch scss:dist/css
-```
+## Get Started
 
 Currencee is a simple app built using HTML and JavaScript. Styling is done using SASS.
 To run the project locally, simply fork and clone the project to your machine, then run the index.html file using liver server.
