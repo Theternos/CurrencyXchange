@@ -36,7 +36,7 @@ let country_code = {
 The flags used are embedded using <a href="https://flagpedia.net">Flagpedia</a> which offers countries images based on their code.
 
 ```js
-https://flagcdn.com/h20/ng.png
+https://flagcdn.com/h20/in.png
 ```
 
 - [Google Analytics](https://analytics.google.com) to measure metrics and usage.
